@@ -7,10 +7,15 @@ The Log Analyzer is a Java program that is meant to process log files and identi
 ## Features
 
 -Reads log files
+
 -Detects failed login attempts
+
 -Groups failures by IP address
+
 -Tracks unique usernames
+
 -Counts total failed attempts
+
 
 ## How It Works
 
